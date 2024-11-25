@@ -10,8 +10,6 @@
 # Technology Stack
 
 - Avalonia UI
-- C#
-- C
 - OpenGL
 
 ![0241119-100609](https://github.com/user-attachments/assets/c778ef02-572a-42e6-9e89-63ca7e93fbc0)
