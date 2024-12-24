@@ -6,7 +6,6 @@
 4. **High Interactivity**: Enables various operations through menus, while integrating AI conversation generation models for an enhanced interactive experience.
 5. **High Expandability**: Users can easily add new models and features to adapt to future needs.
 6. **Dynamic Layout Adjustment**: Allows users to flexibly adjust the positions of sidebars and dialogs according to their preferences, enabling a personalized workspace.
-7. 
 # Technology Stack
 
 - Avalonia UI
